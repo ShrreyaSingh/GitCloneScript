@@ -1,6 +1,6 @@
 
 #usage
-#setup.sh <gitUserName> <gitPassword> <gitProjectName>
+#gitCloneScript.sh <gitUserName> <gitPassword> <gitProjectName>
 
 #setting up command line arguments
 gitUserName=${1}
